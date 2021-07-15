@@ -27,8 +27,8 @@ class enviarCorreo{
             $this->mail->isSMTP();                                            // Send using SMTP
             $this->mail->Host       = 'smtp.gmail.com';                    // Set the SMTP server to send through
             $this->mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-            $this->mail->Username   = 'spankorgamer@gmail.com';                     // SMTP username
-            $this->mail->Password   = 'Jecg27032002';                               // SMTP password
+            $this->mail->Username   = '';                     // SMTP username
+            $this->mail->Password   = '';                               // SMTP password
             $this->mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
             $this->mail->Port       = 587;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
         
