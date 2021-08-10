@@ -15,4 +15,4 @@ Funcionalidades como Funcionario
 * Hacer reportes de fallos en equipos tecnologicos.
 * Llevar registro de sus reportes (para saber si ya se le asigno un tecnico a su reporte, o sigue en espera)
 
-# El proyecto sigue en desarrollo, aun faltan algunos modulos para que quede mas completo...!
+# Cabe aclarar que hay pequeños detalles por mejorar, poco a poco se iran agregando nuevas funcionalidades...!
